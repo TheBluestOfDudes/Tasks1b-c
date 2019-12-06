@@ -1,0 +1,4 @@
+.idea
+meg.iml
+# Project exclude paths
+/target/
